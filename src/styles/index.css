@@ -9,3 +9,41 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.light{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.redOn {
+  box-shadow: 
+    0 0 10px red,
+    0 0 20px red,
+    0 0 40px red;
+}
+
+.yellowOn {
+  box-shadow: 
+    0 0 10px yellow,
+    0 0 20px yellow,
+    0 0 40px yellow;
+}
+
+.greenOn {
+  box-shadow: 
+    0 0 10px green,
+    0 0 20px green,
+    0 0 40px green;
+}
+
+.purpleOn{
+  box-shadow: 
+    0 0 10px purple,
+    0 0 20px purple,
+    0 0 40px purple;
+}
